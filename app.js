@@ -69,6 +69,4 @@ app.post("/success", function(req, res){
   res.redirect("/");
 });
 
-//52d681d3be58050ecba1e24e2613765d-us5
 
-//10a5f1c2bf
